@@ -15,3 +15,11 @@
   /* Microsoft Edge */
   color: red;
 }
+
+.input-field {
+  border: 1px solid gray;
+}
+
+.border-gray {
+  border-color: gray;
+}
